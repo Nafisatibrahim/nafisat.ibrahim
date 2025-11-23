@@ -1,0 +1,36 @@
+{
+    "profile": {
+        "name": "Nafisat Ibrahim",
+        "title": "Data Scientist | Machine Learning Researcher",
+        "bio": "Passionate about applied machine learning, computer vision, and AI systems that solve real-world problems.",
+        "profile_image": "assets/my_picture.jpg"
+    },
+
+    "socials": {
+        "email": "mailto:nafisat.larissa.ibrahim@gmail.com",
+        "github": "https://github.com/Nafisatibrahim",
+        "linkedin": "https://linkedin.com/in/nafisatibrahim",
+        "medium": "https://medium.com/@nafisat.ibrahim",
+        "resume": "assets/nafisat_ibrahim_resume.pdf"
+    },
+
+    "skills": {
+        "Programming Languages": ["Python", "SQL", "JavaScript"],
+        "ML & AI Frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "HuggingFace"],
+        "Data Science Tools": ["Pandas", "NumPy", "Matplotlib", "Plotly"],
+        "Deep Learning & CV/NLP": ["CNNs", "Transformers", "Faster-RCNN", "OpenCV"],
+        "Cloud Platforms": ["GCP", "AWS"],
+        "MLOps & DevOps": ["Docker", "MLflow", "DVC", "Weights & Biases"],
+        "Web & API": ["FastAPI", "Streamlit", "Flask"],
+        "Databases": ["PostgreSQL", "BigQuery"]
+    },
+
+    "Data Tools": ["Python", "SQL", "Power BI", "GCP"] ,
+
+    "stats": {
+        "projects_completed": 5,
+        "models_trained": "25+",
+        "github_commits": "1200+"
+    }
+
+}
