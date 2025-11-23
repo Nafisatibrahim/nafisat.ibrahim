@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "id": "dietvision",
+      "title": "DietVision — AI Nutrition Assistant",
+      "name": "DietVision",
+      "thumbnail": "assets/dietvision_thumb.jpg",
+      "date": "2025-01-10",
+
+      "description": "AI-powered nutrition assistant that analyzes meal images, classifies food using a CNN, and recommends healthier alternatives. Includes a Gemini-powered chatbot for interactive nutrition support.",
+
+      "technical_skills": ["Python", "TensorFlow", "CNNs", "Streamlit", "Gemini API"],
+      "techniques": ["Image Classification", "Data Augmentation", "Feature Extraction", "Conversational AI"],
+
+      "github": "https://github.com/Nafisatibrahim/DietVisionTheSmartPlates",
+      "demo": "https://youtu.be/your-demo-link",
+
+      "tags": ["computer vision", "health", "ml", "cnn", "ai assistant"]
+    },
+
+    {
+    "id": "emotion-detection",
+    "title": "Facial Emotion Detection — Real-Time Expression Classifier",
+    "name": "Facial Emotion Detection",
+    "thumbnail": "assets/emotion_thumb.jpg",
+    "date": "2024-12-15",
+
+    "description": "A real-time facial emotion recognition system that uses a CNN to classify emotions such as happiness, anger, sadness, surprise, and neutrality from live webcam input or images. Built for interactive AI applications and human–computer interaction.",
+
+    "technical_skills": ["Python", "TensorFlow", "OpenCV", "Streamlit"],
+    "techniques": ["Face Detection", "CNN Classification", "Real-Time Inference"],
+
+    "github": "https://github.com/Nafisatibrahim/Facial-Emotion-Detection",
+    "demo": "https://youtu.be/your-emotion-demo-link",
+
+    "tags": ["computer vision", "emotion detection", "cnn", "opencv", "real-time"]
+    },
+
+    {
+      "id": "sceneify3d",
+      "title": "Sceneify3D — AI 3D Reconstruction",
+      "name": "Sceneify3D",
+      "thumbnail": "assets/sceneify_thumb.jpg",
+      "date": "2025-02-05",
+
+      "description": "Turns 2D images or short videos into 3D digital twins using photogrammetry and deep learning. Designed for e-commerce digital assets and architectural visualization.",
+
+      "technical_skills": ["Python", "PyTorch", "COLMAP", "Nerf", "GCP"],
+      "techniques": ["Photogrammetry", "3D Reconstruction", "Depth Estimation"],
+
+      "github": "https://github.com/your-sceneify3d-repo",
+      "demo": "https://youtu.be/your-sceneify-demo",
+
+      "tags": ["3d", "computer vision", "nerf", "reconstruction", "ecommerce"]
+    },
+
+    {
+      "id": "mammoguard",
+      "title": "MammoGuard — Interpretable Breast Cancer Detection",
+      "name": "MammoGuard",
+      "thumbnail": "assets/mammoguard_thumb.jpg",
+      "date": "2025-02-20",
+
+      "description": "Safety-aware breast cancer detection pipeline including lesion detection, bounding-box localization, CNN classification, and interpretability (Grad-CAM + occlusion).",
+
+      "technical_skills": ["Python", "TensorFlow", "Faster R-CNN", "Grad-CAM"],
+      "techniques": ["Object Detection", "Medical Imaging", "Explainable AI"],
+
+      "github": "https://github.com/your-mammoguard",
+      "demo": "https://youtu.be/your-mammoguard-demo",
+
+      "tags": ["medical imaging", "detection", "xai", "cnn", "faster-rcnn"]
+    }
+  ]
+}

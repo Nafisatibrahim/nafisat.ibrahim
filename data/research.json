@@ -1,0 +1,21 @@
+{
+  "projects": [
+    {
+      "id": "mammoguard",
+      "title": "MammoGuard — Interpretable Breast Cancer Detection",
+      "name": "MammoGuard",
+      "thumbnail": "assets/mammoguard_thumb.jpg",
+      "date": "2025-02-20",
+
+      "description": "Safety-aware breast cancer detection pipeline including lesion detection, bounding-box localization, CNN classification, and interpretability (Grad-CAM + occlusion).",
+
+      "technical_skills": ["Python", "TensorFlow", "Faster R-CNN", "Grad-CAM"],
+      "techniques": ["Object Detection", "Medical Imaging", "Explainable AI"],
+
+      "github": "https://github.com/your-mammoguard",
+      "demo": "https://youtu.be/your-mammoguard-demo",
+
+      "tags": ["medical imaging", "detection", "xai", "cnn", "faster-rcnn"]
+    }
+  ]
+}

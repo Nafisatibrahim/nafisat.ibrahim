@@ -22,7 +22,7 @@ render_navbar()
 
 # ==================== LOAD DATA ====================
 def load_data():
-    with open("data/profile_data.json", "r") as f:
+    with open("data/profile.json", "r") as f:
         return json.load(f)
 
 data = load_data()

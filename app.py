@@ -6,6 +6,7 @@ This is the main application module for the project.
 import streamlit as st
 from components.navbar import render_navbar # Import the navbar component
 from components.theme import inject_custom_css, get_theme_colors # Import theme functions
+from components.language import get_text # Import language function
 
 # Page configuration
 st.set_page_config(
